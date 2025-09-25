@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-CSS Project 1
+# Computational Social Science (SOCIOL 273L)
+**Project 1: Reproducibility and GitHub
+**
+Practiced creating repos and collaborating on GitHub 
