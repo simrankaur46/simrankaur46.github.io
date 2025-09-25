@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 # Computational Social Science (SOCIOL 273L)
-**Project 1: Reproducibility and GitHub**
+**Project 1: Reproducibility and GitHub**  
 Practiced creating repos and collaborating on GitHub 
