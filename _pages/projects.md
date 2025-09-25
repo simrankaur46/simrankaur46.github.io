@@ -10,4 +10,4 @@ redirect_from:
 
 # Computational Social Science (SOCIOL 273L)
 **Project 1: Reproducibility and GitHub**  
-Practiced creating repos and collaborating on GitHub 
+Practiced creating repos and collaborating on GitHub
