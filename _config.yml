@@ -25,18 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Simran Kaur"
-  pronouns         : "she/her" # example: "she/her"  
-  bio              : "MPP Candidate, 2026"
+  pronouns         : "she/her" 
+  bio              : "MPP Candidate at UC Berkeley"
   location         : "Berkeley, CA"
   email            : "simran_kaur@berkeley.edu" 
-
- 
-
+  linkedin         : "https://www.linkedin.com/in/simrankaur1746/"
   github           : "simrankaur46"
- 
-
-  # Social media
-  linkedin         : # URL
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
