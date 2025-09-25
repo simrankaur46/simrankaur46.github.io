@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Simran Kaur"
+pronouns: "she/her"
 author_profile: true
 redirect_from: 
   - /about/
